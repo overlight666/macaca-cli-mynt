@@ -27,7 +27,7 @@
     "co-request": "^1.0.0",
     "commander": "^2.20.0",
     "java-util": "~0.1.0",
-    "macaca-coverage": "^1.0.0",
+    "macaca-coverage-mynt": "^1.0.0",
     "macaca-logo": "^1.0.0",
     "macaca-utils": "^1.0.0",
     "mocha": "^5.2.0",
