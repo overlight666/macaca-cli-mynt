@@ -3,7 +3,7 @@
 'use strict';
 
 var program = require('commander');
-var Coverage = require('macaca-coverage');
+var Coverage = require('macaca-coverage-mynt');
 
 var _ = require('../lib/common/helper');
 
